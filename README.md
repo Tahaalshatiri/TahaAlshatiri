@@ -1,4 +1,4 @@
-## Hi , Am Taha Alshatiri 
+# Hi , Am Taha Alshatiri 
 
 # Who am I?
 Am an AI researcher and I enjoy reading about new and unique paradigms that could lead to a machine that actually reasons
