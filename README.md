@@ -1,13 +1,21 @@
-# Hi , Am Taha Alshatiri 
+### 🧩 Projects and publications
+
+
+<a href="[https://github.com/metauto-ai/Kaleido-BERT](https://github.com/Tahaalshatiri/AutoArabic)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+
+
 
 # Who am I?
-Am an AI researcher and I enjoy reading about new and unique paradigms that could lead to a machine that actually reasons
+Am Taha, an AI researcher and I enjoy reading about new and unique paradigms that could lead to a machine that actually reasons
 
-I also  enjoy competing in AI competitions in platforms like Kaggle 
+I also enjoy competing in AI competitions in platforms like Kaggle 
 
 # Academic status
 AM currently an undergraduate student and supposed to graduate in 2027
 looking for higher studies opportunities in a well-respected university
+
 
 
 
