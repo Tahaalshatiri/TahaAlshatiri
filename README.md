@@ -9,7 +9,8 @@ AM currently an undergraduate student and supposed to graduate in 2027
 looking for higher studies opportunities in a well-respected university
 
 
-
+# publications
+- **[AutoArabic](https://github.com/Tahaalshatiri/AutoArabic)**  
 
 # where can you find me?
 Email: tahaalshatiri@gmail.com
